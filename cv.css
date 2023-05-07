@@ -2,7 +2,7 @@
 body{
   margin:0;
   text-align:center;
-  background-color: #A9907E 
+ /* background-color: #A9907E */
 }
 
 h1{
@@ -50,7 +50,7 @@ a:hover{
 
 /**************CLASS***********************/
 .top-container{
-	background-color: #A9907E;
+	background-color: #ef9f5;
 	position: relative;
 	padding-top:150px;
 }
@@ -161,7 +161,6 @@ a:hover{
 }
 
 #middle-container{
-  background-color: gold;
   line-height: 2;
   margin: 100px auto;
   text-align: left;
