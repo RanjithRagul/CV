@@ -94,6 +94,11 @@ a:hover{
 	margin: 40px auto 60px;
 }
 
+.mine{
+	width: 10%;
+	margin: 0 auto;
+}
+
 .btn {
   background: #11CDD4;
   background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
