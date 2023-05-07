@@ -171,6 +171,8 @@ a:hover{
 	margin-top: 3rem;
 }
 #easter-egg{
+	margin: 0 auto;
+	padding: 0;
 	color:#A9907E;
 }
 #middle-container{
