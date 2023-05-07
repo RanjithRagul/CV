@@ -168,7 +168,9 @@ a:hover{
 #div2{
 	margin-top: 3rem;
 }
-
+#easter-egg{
+	color:#A9907E;
+}
 #middle-container{
   line-height: 2;
   margin: 100px auto;
