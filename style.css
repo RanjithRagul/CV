@@ -2,7 +2,7 @@
 body{
   margin:0;
   text-align:center;
- /* background-color: #A9907E */
+  background-color: #A9907E;
 }
 
 h1{
@@ -95,7 +95,8 @@ a:hover{
 }
 
 .mine{
-	width: 10%;
+	width: 50%;
+	margin: auto;
 }
 
 .btn {
